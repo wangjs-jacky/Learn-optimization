@@ -25,7 +25,8 @@
     "src",
     "vite-env.d.ts",
     "unocss.d.ts",
-    "unocssOptions"
+    "../../unocssOptions.ts",
+    "../../common.config.ts"
   ],
   "references": [
     {

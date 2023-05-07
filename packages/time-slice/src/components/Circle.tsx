@@ -28,8 +28,3 @@ function getPostion(width: number, height: number) {
     Math.ceil(Math.random() * height) + "px",
   ];
 }
-
-/* 随机选择数组中的一个值 */
-function pickValueInArr(arr: any[]) {
-  return arr[Math.floor(Math.random() * arr.length)];
-}
