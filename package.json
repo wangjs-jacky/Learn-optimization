@@ -1,0 +1,29 @@
+{
+  "name": "learn-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "pnpm --parallel test:unit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@unocss/core": "^0.51.12",
+    "@unocss/preset-attributify": "^0.51.12",
+    "@unocss/preset-icons": "^0.51.12",
+    "@unocss/preset-uno": "^0.51.12",
+    "@unocss/reset": "^0.51.12",
+    "unocss": "^0.51.12"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.2.0"
+  }
+}
